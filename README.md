@@ -7,7 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://joaomb1337.github.io/joaobarbosa.github.io/](https://joaomb1337.github.io/joaobarbosa.github.io/)
 
-- 📫 How to reach me **joaobarbosa152002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
