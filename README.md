@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is João Barbosa and I'm a Software devoloper, from Portugal</h1>
+<h1 align="left">Hi 👋! My name is João Barbosa and I'm a Software developer from Portugal</h1>
 
 ###
 
